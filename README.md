@@ -1,3 +1,6 @@
+# HRAP modifications
+The original pypropep is broken for recent versions of Python 3. This version is used as a submodule in HRAP to fix the issue without adding a new entry to PyPI.
+
 # pypropep
 [![Build Status](https://travis-ci.org/jonnydyer/pypropep.svg?branch=master)](https://travis-ci.org/jonnydyer/pypropep)
 [![Coverage Status](https://coveralls.io/repos/github/jonnydyer/pypropep/badge.svg?branch=master)](https://coveralls.io/github/jonnydyer/pypropep?branch=master)
